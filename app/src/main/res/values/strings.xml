@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TicTacToeWithKotlinRecyclerView</string>
+    <string name="tic_tack_toe">Tic Tack Toe</string>
+    <string name="main_grid">Main Grid</string>
+    <string name="game_input">Game Input</string>
+    <string name="initialStatus">Lets Play</string>
+    <string name="winnerX">X has won</string>
+    <string name="winnerO">O has won</string>
+    <string name="reset">Reset</string>
+    <string name="matchDrawn">Match Draw</string>
+    <string name="xTurn">X Player Turn</string>
+    <string name="oTurn">O Player Turn</string>
+</resources>

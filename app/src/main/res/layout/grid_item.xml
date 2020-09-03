@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/ivInput"
+            android:layout_width="60sp"
+            android:layout_height="60sp"
+            android:layout_margin="25sp"
+            android:contentDescription="@string/game_input"
+            android:src="@drawable/blank_img" />
+
+    </LinearLayout>
+</layout>
